@@ -27,11 +27,18 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishlaya1999&show_icons=true&locale=en" alt="kishlaya1999" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishlaya1999&theme=codeSTACKr" alt="kishlaya1999" /></p> -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kishlaya1999&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0AEAFF&fire=FF5A00)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kishlaya1999&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0AEAFF&fire=FF5A00)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishlaya1999&layout=compact)](https://github.com/Kishlaya1999/github-readme-stats) -->
 
-![Kishlaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishlaya1999&show_icons=true&theme=highcontrast)
+<!-- ![Kishlaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishlaya1999&show_icons=true&theme=highcontrast) -->
+
+<table>
+  <tr>
+    <td style="padding:0 2px" valign="top"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kishlaya1999&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0AEAFF&fire=FF5A00"/></td>
+    <td style="padding:0 2px" valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Kishlaya1999&show_icons=true&theme=highcontrast"/></td>
+  </tr>
+</table>
 
 ## Github Contributions 📈
 
