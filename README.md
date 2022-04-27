@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kishlaya Kesarwani</h1>
+<h1 align="center">Hi <img src="https://github.com/Kishlaya1999/Kishlaya1999/blob/main/wave.gif" width=30>, I'm Kishlaya Kesarwani</h1>
 <!-- <h3 align="center">A passionate frontend developer.</h3> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kishlaya1999&label=Profile%20views&color=0e75b6&style=flat" alt="kishlaya1999" /> </p>
