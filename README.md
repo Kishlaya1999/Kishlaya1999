@@ -32,3 +32,9 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishlaya1999&layout=compact)](https://github.com/Kishlaya1999/github-readme-stats) -->
 
 ![Kishlaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishlaya1999&show_icons=true&theme=highcontrast)
+
+## Github Contributions 📈
+
+<p align='center'>
+<img src="https://activity-graph.herokuapp.com/graph?username=Kishlaya1999&theme=gotham&hide_border=true">
+<p>
