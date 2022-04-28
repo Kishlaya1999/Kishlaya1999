@@ -36,8 +36,8 @@ How to reach me Kishlaya54321@gmail.com
 
 <table>
   <tr>
-    <td style="padding:0 2px" valign="top"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kishlaya1999&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0AEAFF&fire=FF5A00"/></td>
-    <td style="padding:0 2px" valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Kishlaya1999&show_icons=true&theme=highcontrast"/></td>
+    <td style="padding:0 1px" valign="top"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kishlaya1999&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0AEAFF&fire=FF5A00"/></td>
+    <td style="padding:0 1px" valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Kishlaya1999&show_icons=true&theme=highcontrast"/></td>
   </tr>
 </table>
 
