@@ -41,8 +41,9 @@ How to reach me Kishlaya54321@gmail.com
   </tr>
 </table>
 
-## Github Contributions 📈
+<!-- ## Github Contributions 📈
 
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=Kishlaya1999&theme=gotham&hide_border=true">
 <p>
+ -->
